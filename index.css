@@ -113,6 +113,7 @@ body {
   align-items: center;
   margin: 0.75rem 1.5rem;
   color: hsl(215, 51%, 70%);
+  font-size: .85rem;
 }
 
 .nft-creator-container img {
